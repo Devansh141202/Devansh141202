@@ -6,6 +6,13 @@
 - 📫 How to reach me dvnshnirmal001@gmail.com.
 - 👯 My all work is available at My Git Repo.. 
 
+# 🛠 Skills
+Javasrcipt, node js, express js, HTML, Css, C, C++..
+
+# 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-nirmal-a89548226//)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/devansh_nirmal_3/)
+
 
 
 <!---
