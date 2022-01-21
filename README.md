@@ -1,10 +1,15 @@
 # 👤 About me
 
 - 👋 Hello, I’m Devansh Nirmal
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on webDevelopment open source projects.
+
+- 🧠 I’m currently learning Data Structures and Algorithms.
+
+- 👯‍♀️ I’m looking to collaborate on webDevelopment open source projects.
+
 - 📫 How to reach me dvnshnirmal001@gmail.com.
-- 👯 My all work is available at My Git Repo.. 
+
+- 👩‍💻 My all work is available at My Git Repo.. 
+
 
 # 🛠 Skills
 Javasrcipt, node js, express js, HTML, Css, C, C++..
